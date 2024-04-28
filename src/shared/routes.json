@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/",
+    "name": "Home"
+  },
+  {
+    "path": "/charge-management",
+    "name": "Charge Management",
+    "children": [
+      {
+        "path": "cloud",
+        "name": "Cloud",
+        "children": [
+          {
+            "path": "azure",
+            "name": "Azure"
+          }
+        ]
+      },
+      {
+        "path": "saas",
+        "name": "SaaS"
+      }
+    ]
+  },
+  {
+    "path": "/forecast-budgets",
+    "name": "Forecast & Budgets"
+  }
+]
